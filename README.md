@@ -7,6 +7,7 @@ A modern, interactive mood-adaptive stress relief application built with React, 
 ## ✨ Features
 
 ### 🎮 Interactive Wellness Games (18 Games)
+
 - **Anger Management**: Smash Game, Stress Squeeze Ball
 - **Breathing & Meditation**: Breathing Exercises, Meditation Garden, Zen Garden
 - **Creative Expression**: Drawing Pad, Color Therapy, Dance Therapy
@@ -15,28 +16,33 @@ A modern, interactive mood-adaptive stress relief application built with React, 
 - **Social Wellness**: Virtual Hug, Kindness Cards, Gratitude Tree
 
 ### 🤖 AI-Powered Features
+
 - **Mood Detection**: Real-time emotion analysis
 - **AI Wellness Coach**: Personalized recommendations and support
 - **Adaptive Games**: Content adjusts based on current mood and stress levels
 
 ### 🎵 Audio Experience
+
 - **Built-in Audio**: Generated nature sounds, meditation bells, ambient music
 - **Custom Audio**: Upload your own relaxing tracks
 - **Smart Controls**: Volume, looping, and auto-play settings
 
 ### 📱 Social Connection
+
 - **Support Network**: Add trusted contacts for emergency situations
 - **Auto-messaging**: Automatic check-ins when stress levels are high
 - **Progress Sharing**: Celebrate achievements with friends and family
 - **Multiple Contact Methods**: WhatsApp, Phone, SMS, Email
 
 ### 📊 Progress Tracking
+
 - **Detailed Analytics**: Session history, mood trends, stress patterns
 - **Achievement System**: Unlock rewards for consistent practice
 - **Daily Streaks**: Build healthy habits with streak tracking
 - **Privacy Controls**: Full control over your data
 
 ### 🔒 Privacy & Security
+
 - **Local Storage**: All data stays on your device
 - **Data Export**: Download your progress anytime
 - **Privacy Settings**: Granular control over data sharing
@@ -45,23 +51,27 @@ A modern, interactive mood-adaptive stress relief application built with React, 
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/DevAgnihotri/MoodBoost.git
    cd MoodBoost
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start development server**
+
    ```bash
    npm run dev
    ```
@@ -72,6 +82,7 @@ A modern, interactive mood-adaptive stress relief application built with React, 
    ```
 
 ### Build for Production
+
 ```bash
 npm run build
 npm run preview
@@ -106,18 +117,21 @@ src/
 ## 🎯 Key Components
 
 ### Game System
+
 - 18 interactive wellness games
 - Mood-adaptive difficulty and content
 - Progress tracking and achievements
 - Sound effects and visual feedback
 
 ### AI Integration
+
 - Real-time mood analysis
 - Personalized wellness recommendations
 - Adaptive content based on user patterns
 - Privacy-focused local processing
 
 ### Social Features
+
 - Emergency contact system
 - Auto-messaging for high stress situations
 - Progress sharing capabilities
@@ -147,6 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you need help or have questions:
+
 - 📧 Open an issue on GitHub
 - 💬 Join our community discussions
 - 🐛 Report bugs through GitHub issues
@@ -155,4 +170,4 @@ If you need help or have questions:
 
 **MoodBoost** - Your personal wellness companion for a healthier, happier mind. 🧠💙
 
-*Made with ❤️ by [DevAgnihotri](https://github.com/DevAgnihotri)*
+_Made with ❤️ by [DevAgnihotri](https://github.com/DevAgnihotri)_

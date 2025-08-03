@@ -256,7 +256,7 @@ function App() {
                 >
                   <Heart className="w-8 h-8 lg:w-12 lg:h-12 text-pink-500" />
                   <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800">
-                    MoodBoost
+                    Stress-Smash
                   </h1>
                 </motion.div>
                 <p className="text-lg text-gray-600 mb-6">
